@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [トップページ](README)
+- [使い方](howto.md)
