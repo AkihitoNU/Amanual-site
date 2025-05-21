@@ -1,2 +1,2 @@
-- [トップページ](README.md)
-- [使い方](howto.md)
+* [トップページ](README.md)
+* [使い方](howto.md) 
